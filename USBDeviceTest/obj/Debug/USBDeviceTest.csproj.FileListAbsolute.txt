@@ -1,0 +1,12 @@
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\bin\Debug\USBDeviceTest.exe.config
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\bin\Debug\USBDeviceTest.exe
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\bin\Debug\USBDeviceTest.pdb
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\obj\Debug\USBDeviceTest.Form1.resources
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\obj\Debug\USBDeviceTest.Properties.Resources.resources
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\obj\Debug\USBDeviceTest.csproj.GenerateResource.Cache
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\obj\Debug\USBDeviceTest.exe
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\obj\Debug\USBDeviceTest.pdb
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\obj\Debug\USBDeviceTest.csprojResolveAssemblyReference.cache
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\bin\Debug\jose-jwt.dll
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\RANK_PT_PROJECT\BEARING_INSPECTION_LOG\CSHARP_PROJECT\GuageReader\USBDeviceTest\bin\Debug\Microsoft.IdentityModel.Logging.xml
